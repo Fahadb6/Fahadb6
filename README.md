@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer science and also AI in deep way ! 
 - 💞️ I’m looking to collaborate on Google as AI agent developer
   📫 How to reach me:
-- 💼 LinkedIn: www.linkedin.com/in/fahad-hussien-bh
+- 💼 LinkedIn: https://www.linkedin.com/in/fahad-hussain-bh/
 - 📧 Email: ifahadbu6@gmail.com
 - 🐦 X (Twitter): https://x.com/ifahadbu6
 
