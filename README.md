@@ -1,13 +1,11 @@
-- 👋 Hi, I’m Fahad
-- 👀 I’m interested in AI and Games Development
-- 🌱 I’m currently learning Computer science and also AI in deep way ! 
-- 💞️ I’m looking to collaborate on Google as AI agent developer
-  📫 How to reach me:
-- 💼 LinkedIn: https://www.linkedin.com/in/fahad-hussain-bh/
-- 📧 Email: ifahadbu6@gmail.com
-- 🐦 X (Twitter): https://x.com/ifahadbu6
+### Hi, I'm Fahad 👋
 
-<!---
-Fahadb6/Fahadb6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Computer Engineering & AI Student
+- ⚡ Exploring & building applied AI systems & LLMs
+- 🐍 Primary language: Python
+- 🛠️ Currently sharing my weekly learnings & code
+
+#### Connect with me:
+- **X (Twitter):** [@FahadAIEng](https://x.com/FahadAIEng)
+- **LinkedIn:** [Fahad](https://www.linkedin.com/in/fahad-hussain-bh/)
+- **All Links:** [Linktree](https://linktr.ee/FahadAIEng)
